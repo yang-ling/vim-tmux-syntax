@@ -26,6 +26,5 @@ NeoBundle 'yang-ling/vim-tmux-syntax'
 To install this file:
 
 * Drop the file in the syntax directory into runtimepath (such as ~/.vim/syntax/tmux.vim).
-* Drop the file in the ftdetect directory into runtimepath (~/.vim/filetype.vim):
-
+* Drop the file in the ftdetect directory into runtimepath (~/.vim/ftdetect/tmux.vim):
 * Switch on syntax highlighting by adding "syntax enable" to .vimrc.
